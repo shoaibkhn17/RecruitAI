@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.env
+
+node_modules/
+
+voice_samples/
+interview_answers/
+reports/
+
+pretrained_models/
+
+.vscode/
